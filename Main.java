@@ -28,16 +28,6 @@ public class Main {
                 System.out.print(matriz[f][c]+" ");
             }
             System.out.println(" ");
-
         }
-
-
-
-
-
-
-
-
-
     }
 }
